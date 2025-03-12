@@ -44,7 +44,7 @@ export default function Index() {
 
   return (
     <Flex justify={'center'}>
-      <div style={{ maxWidth: 1440, paddingBottom: paddingXL, paddingTop: paddingXL }}>
+      <div style={{ maxWidth: 1440, paddingBottom: paddingXL }}>
         <Space direction={'vertical'} size={'large'}>
           {/* ----------------------------------------------------*/}
           <Space direction="vertical" id="hero" size="middle">

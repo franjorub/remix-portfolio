@@ -1,6 +1,5 @@
 import type { LinksFunction } from '@remix-run/cloudflare';
 import { Links, Meta, Outlet, Scripts, ScrollRestoration } from '@remix-run/react';
-import 'antd/dist/reset.css';
 
 export const links: LinksFunction = () => [];
 
